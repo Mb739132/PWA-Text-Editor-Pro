@@ -34,7 +34,7 @@ So that I can reliably retrieve them for later use.
     - [ ] Then I should have proper build scripts for a webpack application
 
 ## Mock-Up
-![Alt Text](assets\jate-console-log-video.gif)
+![Alt Text](assets/jate-console-log-video.gif)
 
 Contributers:
 
