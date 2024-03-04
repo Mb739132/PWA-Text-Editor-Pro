@@ -1,35 +1,41 @@
-# Text Editor Starter Code
+## Description
+This project aims to provide a text editor web application that allows users to create and save notes or code snippets with or without an internet connection. The application leverages IndexedDB for local storage, allowing users to reliably retrieve their content for later use even when offline.
 
 ## User Story
-AS A developer
-
-I WANT to create notes or code snippets with or without an internet connection
-
-SO THAT I can reliably retrieve them for later use
+As a developer,
+I want to create notes or code snippets with or without an internet connection,
+So that I can reliably retrieve them for later use.
 
 ## Acceptance Criteria
-* GIVEN a text editor web application
-* WHEN I open my application in my editor
-* THEN I should see a client server folder structure
-* WHEN I run `npm run start` from the root directory
-* THEN I find that my application should start up the backend and serve the client
-* WHEN I run the text editor application from my terminal
-* THEN I find that my JavaScript files have been bundled using webpack
-* WHEN I run my webpack plugins
-* THEN I find that I have a generated HTML file, service worker, and a manifest file
-* WHEN I use next-gen JavaScript in my application
-* THEN I find that the text editor still functions in the browser without errors
-* WHEN I open the text editor
-* THEN I find that IndexedDB has immediately created a database storage
-* WHEN I enter content and subsequently click off of the DOM window
-* THEN I find that the content in the text editor has been saved with IndexedDB
-* WHEN I reopen the text editor after closing it
-* THEN I find that the content in the text editor has been retrieved from our IndexedDB
-* WHEN I click on the Install button
-* THEN I download my web application as an icon on my desktop
-* WHEN I load my web application
-* THEN I should have a registered service worker using workbox
-* WHEN I register a service worker
-* THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
-* WHEN I deploy to Render
-* THEN I should have proper build scripts for a webpack application
+- [ ] Given a text editor web application
+  - [ ] When I open my application in my editor
+    - [ ] Then I should see a client server folder structure
+  - [ ] When I run `npm run start` from the root directory
+    - [ ] Then I find that my application should start up the backend and serve the client
+  - [ ] When I run the text editor application from my terminal
+    - [ ] Then I find that my JavaScript files have been bundled using webpack
+  - [ ] When I run my webpack plugins
+    - [ ] Then I find that I have a generated HTML file, service worker, and a manifest file
+  - [ ] When I use next-gen JavaScript in my application
+    - [ ] Then I find that the text editor still functions in the browser without errors
+  - [ ] When I open the text editor
+    - [ ] Then I find that IndexedDB has immediately created a database storage
+  - [ ] When I enter content and subsequently click off of the DOM window
+    - [ ] Then I find that the content in the text editor has been saved with IndexedDB
+  - [ ] When I reopen the text editor after closing it
+    - [ ] Then I find that the content in the text editor has been retrieved from our IndexedDB
+  - [ ] When I click on the Install button
+    - [ ] Then I download my web application as an icon on my desktop
+  - [ ] When I load my web application
+    - [ ] Then I should have a registered service worker using workbox
+  - [ ] When I register a service worker
+    - [ ] Then I should have my static assets pre-cached upon loading along with subsequent pages and static assets
+  - [ ] When I deploy to Render
+    - [ ] Then I should have proper build scripts for a webpack application
+
+## Mock-Up
+![Alt Text](assets\jate-console-log-video.gif)
+
+Contributers:
+
+My GitHub Profile: Mb739132    •  📨 : mariatu.bah46@gmail.com  
